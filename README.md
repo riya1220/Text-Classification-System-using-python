@@ -35,5 +35,5 @@ This project classifies emails and SMS messages as spam or not spam using Natura
 
 ## Results
 - Accuracy: 95%
-- Model Used: Logistic Regression, Naive Bayes
+- Model Used: Logistic Regression, Naive Bayes, Support Vector Machine, Random Forest
 
